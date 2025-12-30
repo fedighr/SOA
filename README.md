@@ -1,4 +1,4 @@
-# 👥 Persons CRUD Application
+# 👥 Persons CRUD Application (Fedi Ghribi && Abdelhedi Chakroun)
 
 A full-stack web application for managing person records with Create, Read, Update, and Delete (CRUD) operations. Built with React frontend and Java backend using JAX-RS, Hibernate, and MySQL.
 
